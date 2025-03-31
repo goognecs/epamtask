@@ -1,0 +1,10 @@
+# Hide Extensions with
+*.db
+*.log
+
+/*.db
+/*.log
+
+# Hide Directories with
+target/
+bin/
